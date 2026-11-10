@@ -1,7 +1,6 @@
 {
-  "name": "BulkLab \u2014 Workout & Meal Prep",
+  "name": "BulkLab - Strength & Nutrition",
   "short_name": "BulkLab",
-  "description": "Track workouts, body weight and meal prep.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
